@@ -2,7 +2,11 @@ Dev_a : first line
 allali el khansae
 ***************
 grpupe8:btissam + khansae
+<<<<<<< HEAD
 *******************************
+=======
+22222222222222222222222222222222222
+>>>>>>> feature/dev_b_2
 ibtissam tahiri
 
 
